@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Tests for API",
+  "main": "index.js",
+  "repository": "http://github.com/VadimL23/test.git",
+  "author": "Vadim <Vadim_lachkov@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.2.1",
+    "prettier": "2.4.1",
+    "qs": "^6.10.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
